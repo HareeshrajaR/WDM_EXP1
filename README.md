@@ -119,7 +119,7 @@ rainy,70,75,false,no
 
 ## Weather Table after removing attributes Humidity:
 
-<img width="742" height="449" alt="Screenshot 2025-08-13 132326" src="https://github.com/user-attachments/assets/d5be5c65-563a-4864-b1d7-f0ad2a0af410" />
+<img width="744" height="441" alt="Screenshot 2025-08-13 133300" src="https://github.com/user-attachments/assets/05401928-c37a-41b7-bfa1-46d7e45b6b78" />
 
 
 ### Normalize -> Pre-Processing Technique:
